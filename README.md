@@ -56,5 +56,5 @@ This project uses deep learning techniques to detect **clinically significant pr
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/prostate-cancer-detection-cnn.git
+   git clone https://github.com/Sreetejareddy-09/prostate-cancer-detection-cnn.git
    cd prostate-cancer-detection-cnn
